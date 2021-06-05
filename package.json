@@ -238,7 +238,7 @@
       },
       "brave-core": {
         "dir": "src/brave",
-        "branch": "rewards-bitflyer-integration",
+        "branch": "override_sparkle_feed_url",
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
         }
