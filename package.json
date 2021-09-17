@@ -47,7 +47,7 @@
         "dir": "src/brave",
         "branch": "page-graph",
         "repository": {
-          "url": "https://github.com/brave/brave-core.git"
+          "url": "https://github.com/silverfoxy/brave-core.git"
         }
       }
     },
